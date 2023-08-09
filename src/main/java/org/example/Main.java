@@ -48,5 +48,9 @@ public class Main {
             panel.add(button);
             //panel.revalidate(); // Обновление панели для отображения новой кнопки
         }
+
+        private void print(){
+            System.out.println("SSSSSSSSSSSSSSSSSSSOOOOOOOOOOOOOOOOOSSSSSSSSSSSSSSSSSS");
+        }
     }
 
